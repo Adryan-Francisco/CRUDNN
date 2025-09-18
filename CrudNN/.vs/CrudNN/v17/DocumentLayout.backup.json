@@ -1,0 +1,455 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\CrudNN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\views\\vendas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:views\\vendas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\views\\shared\\_alerts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:views\\shared\\_alerts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\views\\shared\\_form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:views\\shared\\_form.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\views\\vendas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:views\\vendas\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\infrastructure\\invariantdecimalmodelbinderprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:infrastructure\\invariantdecimalmodelbinderprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\infrastructure\\invariantdecimalmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:infrastructure\\invariantdecimalmodelbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\controllers\\vendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:controllers\\vendascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\views\\vendas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:views\\vendas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\views\\vendas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:views\\vendas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\crudnn.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:crudnn.csproj.backup.tmp||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\viewmodels\\vendaformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:viewmodels\\vendaformvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\viewmodels\\vendaitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:viewmodels\\vendaitemvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\crudnn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:crudnn.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:models\\venda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\models\\vendaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:models\\vendaproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|c:\\users\\aluno\\desktop\\crudnn\\migrations\\20250902164730_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C94071-1097-4BA5-924C-E407E233BDB1}|CrudNN.csproj|solutionrelative:migrations\\20250902164730_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Form.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Views\\Shared\\_Form.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Form.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Views\\Shared\\_Form.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Form.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T17:40:04.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Alerts.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Views\\Shared\\_Alerts.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Alerts.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Views\\Shared\\_Alerts.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Alerts.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T17:39:36.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAwwPUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-18T17:38:28.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T17:37:51.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Views\\Produtos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Produtos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Views\\Produtos\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Produtos\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T17:37:16.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InvariantDecimalModelBinderProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Infrastructure\\InvariantDecimalModelBinderProvider.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\InvariantDecimalModelBinderProvider.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Infrastructure\\InvariantDecimalModelBinderProvider.cs",
+              "RelativeToolTip": "Infrastructure\\InvariantDecimalModelBinderProvider.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T17:35:33.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InvariantDecimalModelBinder.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Infrastructure\\InvariantDecimalModelBinder.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\InvariantDecimalModelBinder.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Infrastructure\\InvariantDecimalModelBinder.cs",
+              "RelativeToolTip": "Infrastructure\\InvariantDecimalModelBinder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T17:34:25.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Views\\Vendas\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vendas\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Views\\Vendas\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Vendas\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T17:30:36.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Views\\Vendas\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vendas\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Views\\Vendas\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Vendas\\Edit.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T17:30:04.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Views\\Vendas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vendas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Views\\Vendas\\Create.cshtml",
+              "RelativeToolTip": "Views\\Vendas\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T17:29:18.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Views\\Vendas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Vendas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Views\\Vendas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Vendas\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAwwEIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-18T17:28:35.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CrudNN.csproj.Backup.tmp",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\CrudNN.csproj.Backup.tmp",
+              "RelativeDocumentMoniker": "CrudNN.csproj.Backup.tmp",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\CrudNN.csproj.Backup.tmp",
+              "RelativeToolTip": "CrudNN.csproj.Backup.tmp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-18T17:24:47.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VendasController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Controllers\\VendasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VendasController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Controllers\\VendasController.cs",
+              "RelativeToolTip": "Controllers\\VendasController.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAwwLkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:10:25.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VendaFormVM.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\ViewModels\\VendaFormVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\VendaFormVM.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\ViewModels\\VendaFormVM.cs",
+              "RelativeToolTip": "ViewModels\\VendaFormVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:08:02.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VendaItemVM.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\ViewModels\\VendaItemVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\VendaItemVM.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\ViewModels\\VendaItemVM.cs",
+              "RelativeToolTip": "ViewModels\\VendaItemVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:06:09.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:03:36.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T17:02:27.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250902164730_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Migrations\\20250902164730_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250902164730_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Migrations\\20250902164730_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250902164730_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:47:30.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:37:57.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CrudNN.csproj",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\CrudNN.csproj",
+              "RelativeDocumentMoniker": "CrudNN.csproj",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\CrudNN.csproj",
+              "RelativeToolTip": "CrudNN.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-02T16:36:57.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "VendaProduto.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Models\\VendaProduto.cs",
+              "RelativeDocumentMoniker": "Models\\VendaProduto.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Models\\VendaProduto.cs",
+              "RelativeToolTip": "Models\\VendaProduto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:34:36.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Venda.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Models\\Venda.cs",
+              "RelativeDocumentMoniker": "Models\\Venda.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Models\\Venda.cs",
+              "RelativeToolTip": "Models\\Venda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:33:07.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Models\\Produto.cs",
+              "RelativeToolTip": "Models\\Produto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:31:09.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA3wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:29:02.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T16:23:41.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\CrudNN\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\CrudNN\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-02T16:21:08.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
